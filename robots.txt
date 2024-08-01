@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ilbutico.github.io/sitemap.html.gz
+Sitemap: https://ilbutico.github.io/app/sitemap.html.gz
+Sitemap: https://ilbutico.github.io/assets/sitemap.html.gz
+Sitemap: https://ilbutico.github.io/css/sitemap.html.gz
+Sitemap: https://ilbutico.github.io/includes/sitemap.html.gz
+Sitemap: https://ilbutico.github.io/item/sitemap.html.gz
+Sitemap: https://ilbutico.github.io/src/sitemap.html.gz
